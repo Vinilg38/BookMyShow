@@ -1,4 +1,5 @@
 
+/*Define a settings object which will be required for setting up the theatre seats*/
 var settings=
 {
 	rows:8,
