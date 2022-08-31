@@ -18,7 +18,7 @@ var settings=
 	},
 	movies:
 	[
-		"Butter BTS",
+		"Butter- BTS",
 		"Baby-Justin Bieber"
 
 	]
