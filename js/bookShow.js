@@ -18,8 +18,8 @@ var settings=
 	},
 	movies:
 	[
-		"Inception",
-		"Black Friday"
+		"Butter BTS",
+		"Baby-Justin Bieber"
 
 	]
 };
